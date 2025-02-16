@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Backend
-- - 📫 How to reach me: bhardwajkapil2003@gmail.com
+- 📫 How to reach me: bhardwajkapil2003@gmail.com
 
   
 ### Connect with me:
