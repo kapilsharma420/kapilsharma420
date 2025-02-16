@@ -2,11 +2,12 @@
 
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Backend
+- - 📫 How to reach me: bhardwajkapil2003@gmail.com
 
   
 ### Connect with me:
 <div id="badges">
-  <a href="https://github.com/panditkapil420">
+  <a href="https://github.com/kapilsharma420">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
   
