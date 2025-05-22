@@ -1,8 +1,10 @@
- <h1 align="center">Hi 👋, I'm Kapil Sharma</h1>
+<h1 align="center">Hi 👋, I'm Kapil Sharma</h1>
 
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Backend
-- 📫 How to reach me: bhardwajkapil2003@gmail.com
+<p align="center">
+  🔭 Currently diving deep into <strong>Flutter</strong> development<br>
+  🌱 Exploring the world of <strong>Backend Development</strong><br>
+  📫 Reach me at: <a href="mailto:bhardwajkapil2003@gmail.com">bhardwajkapil2003@gmail.com</a>
+</p>
 
   
 ### Connect with me:
