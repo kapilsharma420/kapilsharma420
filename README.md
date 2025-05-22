@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kapil Sharma</h1>
 
-<p align="center">
+<p 
   🔭 Currently diving deep into <strong>Flutter</strong> development<br>
   🌱 Exploring the world of <strong>Backend Development</strong><br>
   📫 Reach me at: <a href="mailto:bhardwajkapil2003@gmail.com">bhardwajkapil2003@gmail.com</a>
