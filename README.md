@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kapil Sharma</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kapilsharma420&label=Profile%20views&color=0e75b6&style=flat" alt="kapilsharma420" /> </p>
 <p >
   🔭 Currently diving deep into <strong>Flutter</strong> development<br>
   🌱 Exploring the world of <strong>Backend Development</strong><br>
