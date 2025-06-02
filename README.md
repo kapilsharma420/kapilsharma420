@@ -24,4 +24,7 @@
    <a href="https://twitter.com/@PANDIT_KAPPU">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <br><br>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kapilsharma420&" alt="kapilsharma420" /></p>
 </div>
+
